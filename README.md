@@ -1,4 +1,4 @@
-## Has you client failed to make payment?
+## Has your client failed to make payment?
 
 
 Add opacity to the body tag and decrement it daily or weekly until the site completely fades away. 

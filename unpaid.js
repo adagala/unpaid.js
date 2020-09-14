@@ -1,6 +1,5 @@
 (function () {
-    // DAILY: will decrement the opacity value daily
-
+    // It will decrement the opacity value daily or weekly
 
     // Change the `type`, `date` and `count` variable to match your preferences
     var date = '2020-09-14'; // the date to start
